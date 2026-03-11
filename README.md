@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Lucas del Valle</h1>
-<h3 align="center">💻 Full Stack Developer | Web3 Enthusiast | Java & Angular Developer</h3>
+<h3 align="center">💻 Full Stack Developer | Java & Angular Developer</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 **National Technological University – Mar del Plata (Argentina)**  
 
 💡 Passionate about software development and constantly learning new technologies.  
-🚀 Currently exploring **Web3 and Solidity**.  
+🚀 Currently exploring **C#, React & WPF**.  
 🌱 Always looking to grow and collaborate on exciting projects.
 
 ---
